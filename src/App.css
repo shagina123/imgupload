@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.titleDiv{
+  color: rgb(73, 19, 19);
+  font-size: 48px;
+  font-style: italic;
+  text-decoration: line-through;
+  margin-top: 8vh;
+}

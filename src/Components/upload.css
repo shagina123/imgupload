@@ -1,0 +1,60 @@
+/*  */
+  
+  .content {
+    /* border: 5px solid red !important; */
+
+    margin: 20px 0;
+  }
+  
+  .preview {
+    max-width: 200px;
+
+  }
+
+  .uploadDiv{
+      margin-left: 5%;
+      margin-right: 5%;
+      width: 90%;
+      margin-top: 5vh;
+
+  }
+  .uploadbtn{
+      background-color: rgb(5, 87, 5) !important;
+      border-radius: 5px !important;
+      width: 100px !important;
+  }
+  .selectbtn{
+    border-radius: 45px !important;
+    width: 100px !important;
+    /* height: 40px !important; */
+    /* background-color: rgb(5, 87, 5) !important; */
+   
+
+  }
+  .selectin{
+    
+    /* border: 4px solid red !important;   */
+    color: rgb(87, 19, 23) !important;
+ margin-left: 0% !important;
+    position: relative;
+    
+  }
+::-webkit-file-upload-button{
+    background-color: rgb(139, 107, 46) !important;  
+    color: white !important;
+    border-radius: 5px !important;
+}
+ .row{
+     width: 100% !important;
+ }
+ .card-header{
+     background-color: white !important;
+     color: rgb(87, 19, 23) !important;
+     font-weight: 500 !important;
+     border: none !important;
+    }
+    .alert{
+        background-color: white !important;
+        color:rgb(70, 19, 19) !important;
+        border: none !important;
+    }
